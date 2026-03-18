@@ -1,4 +1,5 @@
-# CNN_MINJUN
+# KGM_UPGRADE
+
 
 1. 모델 구조 고도화 (Deep & Light Architecture)
 
